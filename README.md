@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @santibelco
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning a lot of things like python, databases, ethical hacking, networking, etc
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning a lot of things like Python, Databases, Ethical Hacking, Networking, etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
